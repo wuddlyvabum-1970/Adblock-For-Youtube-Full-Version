@@ -234,4 +234,4 @@ This repository serves as the official landing page for Adblock for YouTube. The
 **Get the most recent version of Adblock for YouTube today!**
 
 ---
-**Last updated:** 2026-10-14 23:38:54 UTC
+**Last updated:** 2026-10-15 03:04:20 UTC
